@@ -1,0 +1,6 @@
+$node_(38) set X_ 0
+$node_(38) set Y_ 1000.0
+$node_(38) set Z_ 0
+$node_(39) set X_ 1000.0
+$node_(39) set Y_ 0
+$node_(39) set Z_ 0
